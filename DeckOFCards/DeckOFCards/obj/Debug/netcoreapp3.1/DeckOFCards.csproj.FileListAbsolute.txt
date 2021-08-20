@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\obj\Debug\netcoreapp3.1\DeckOFCards.csproj.AssemblyReference.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\obj\Debug\netcoreapp3.1\DeckOFCards.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\obj\Debug\netcoreapp3.1\DeckOFCards.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\obj\Debug\netcoreapp3.1\DeckOFCards.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\bin\Debug\netcoreapp3.1\DeckOFCards.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\bin\Debug\netcoreapp3.1\DeckOFCards.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\bin\Debug\netcoreapp3.1\DeckOFCards.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\bin\Debug\netcoreapp3.1\DeckOFCards.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\bin\Debug\netcoreapp3.1\DeckOFCards.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\bin\Debug\netcoreapp3.1\DeckOFCards.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\obj\Debug\netcoreapp3.1\DeckOFCards.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\obj\Debug\netcoreapp3.1\DeckOFCards.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\DeckOFCards\DeckOFCards\obj\Debug\netcoreapp3.1\DeckOFCards.genruntimeconfig.cache

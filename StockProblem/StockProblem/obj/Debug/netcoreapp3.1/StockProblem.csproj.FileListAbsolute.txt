@@ -1,0 +1,13 @@
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\obj\Debug\netcoreapp3.1\StockProblem.AssemblyInfoInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\obj\Debug\netcoreapp3.1\StockProblem.AssemblyInfo.cs
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\obj\Debug\netcoreapp3.1\StockProblem.csproj.CoreCompileInputs.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\bin\Debug\netcoreapp3.1\StockProblem.exe
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\bin\Debug\netcoreapp3.1\StockProblem.deps.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\bin\Debug\netcoreapp3.1\StockProblem.runtimeconfig.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\bin\Debug\netcoreapp3.1\StockProblem.runtimeconfig.dev.json
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\bin\Debug\netcoreapp3.1\StockProblem.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\bin\Debug\netcoreapp3.1\StockProblem.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\obj\Debug\netcoreapp3.1\StockProblem.dll
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\obj\Debug\netcoreapp3.1\StockProblem.pdb
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\obj\Debug\netcoreapp3.1\StockProblem.genruntimeconfig.cache
+C:\Users\SATYAM VAISHNAV\fellowship_program\day11&day12 Problems\StockProblem\StockProblem\obj\Debug\netcoreapp3.1\StockProblem.csproj.AssemblyReference.cache

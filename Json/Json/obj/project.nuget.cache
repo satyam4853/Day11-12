@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1fq+E0qL2FfT7bqhTMVF2Jju1bBHw0d0eT91kO2ubUOidVN1hhKBTOrtSxC159os267QF9PKFTj72NKqZnULnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SATYAM VAISHNAV\\fellowship_program\\day11&day12 Problems\\Json\\Json\\Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SATYAM VAISHNAV\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
